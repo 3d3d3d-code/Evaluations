@@ -1,3 +1,5 @@
+
+CREATE DATABASE search
 CREATE TABLE Companies(
    Id BIGINT PRIMARY KEY,
 Name VARCHAR(100) NOT NULL,
@@ -15,3 +17,4 @@ Name VARCHAR(100) NOT NULL,
 
 
 
+general_loghelp_keywordhelp_topicmysqlevents_waits_summary_by_thread_by_event_name
