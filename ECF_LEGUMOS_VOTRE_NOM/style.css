@@ -1,0 +1,66 @@
+html,body{
+
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#conteneur {
+    display: flex;
+    flex-direction: column;
+ align-items: center;
+    border: black solid 2px;
+  position: relative;  
+}
+
+#liste__ventes {
+    padding-top: 30px;
+
+}
+
+.banniere {
+    margin: 0;
+   position: relative;
+   padding: 0;
+}
+
+button {
+    flex-wrap: wrap;
+    background-color: rgb(13, 138, 90);
+    color: aliceblue;
+    width: 200px;
+    height: 80px;
+}
+#liste_legumes{
+
+
+
+
+}
+.nav{
+
+    background-color:rgb(13, 138, 90); 
+
+
+}
+a{
+   
+
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#menu{
+position: arelative
+;
+    justify-content: space-between;
+   
+}
